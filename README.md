@@ -29,7 +29,7 @@ Project Structre, Tests, Assumptions and further comments about the data and pro
 ![Project Structure](src/main/resources/projectStructure.png)
 
 ### Testing
-All tests related to each transformation function used can be found under: `src/test/scala/me/krakencase/spark_operations/datasets`
+All tests related to each transformation function used can be found under: `src/test/scala/me/caselastfm/spark_operations/datasets`
 
 In the spec file, you should be able to run each tests within the IDE or using sbt shell (`testOnly *SpecFileName*`).
 
