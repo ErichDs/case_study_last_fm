@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/erich/Documents/Training/KrakenCase/src/test/scala/me/krakencase/spark_operations/datasets/LastFMSessionsOpsSpec.scala:9:7: class LastFMSessionsOpsSpec inherits conflicting members:[0m
+[0m[[0m[31merror[0m] [0m[0m  lazy val spark: org.apache.spark.sql.SparkSession (defined in trait DataFrameSuiteBaseLike) and[0m
+[0m[[0m[31merror[0m] [0m[0m  lazy val spark: org.apache.spark.sql.SparkSession (defined in trait SparkSessionWrapper)[0m
+[0m[[0m[31merror[0m] [0m[0m  (note: this can be resolved by declaring an `override` in class LastFMSessionsOpsSpec.)[0m
+[0m[[0m[31merror[0m] [0m[0mclass LastFMSessionsOpsSpec extends AnyFlatSpec with DataFrameSuiteBase with SparkSessionWrapper {[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

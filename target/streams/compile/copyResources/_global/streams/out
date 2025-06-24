@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/erich/Documents/Training/KrakenCase/src/main/resources/application.conf,/Users/erich/Documents/Training/KrakenCase/target/scala-2.13/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/erich/Documents/Training/KrakenCase/src/main/resources/Script_SQL_Test.sql,/Users/erich/Documents/Training/KrakenCase/target/scala-2.13/classes/Script_SQL_Test.sql)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/erich/Documents/Training/KrakenCase/src/main/resources/log4j.properties,/Users/erich/Documents/Training/KrakenCase/target/scala-2.13/classes/log4j.properties)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/erich/Documents/Training/KrakenCase/src/main/resources/projectStructure.png,/Users/erich/Documents/Training/KrakenCase/target/scala-2.13/classes/projectStructure.png)[0m
